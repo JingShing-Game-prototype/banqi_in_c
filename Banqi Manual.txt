@@ -1,0 +1,48 @@
+目前已經完成存檔系統。
+以下選項，0為否，1為是。
+
+Do you want to read the last game? (0 for no, 1 for yes)
+是否讀檔？
+Opened or Closed? (0 for closed, 1 for open)
+翻開棋還是暗棋？
+
+Edit piece power? (0 for no, 1 for yes)
+是否更改棋子強度？
+
+if是
+see now piece rank? (0 for no, 1 for yes)
+是否看目前棋子的階級？
+兵卒 now is rank 1
+炮包 now is rank 3
+傌馬 now is rank 4
+俥車 now is rank 5
+相象 now is rank 6
+仕士 now is rank 7
+帥將 now is rank 8
+炮包's extrapower now is 5
+
+Do you need extra power for canon? (0 for no, 1 for yes. canon become a glass canon)
+需要炮的額外攻擊力嗎？
+
+edit or not?(1 or 0)
+是否要更改其他棋子？
+
+Confirm or not? (1 or 0)
+確認與否？
+
+
+What mode you want to play? (0 for normal banqi,1 for flipped combo, 2 for dark combo)
+請問要遊玩什麼模式？(0為普通定義暗棋，1為明牌連吃暗棋，2為暗牌連吃暗棋)
+
+
+P1 is none, P2 is none
+Now it's turn for Player 1.
+Turn: 1
+Choose a cell (-1,-1 for give up):
+
+以下將列出特殊指令座標：
+(-1,-1)投降指令
+(-2,-2)存檔指令
+(-3,-3)讀檔指令
+
+( 9, 9)連擊中止指令
